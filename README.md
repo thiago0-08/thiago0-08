@@ -27,7 +27,7 @@ Bem-vindo ao meu perfil no GitHub! Sinta-se à vontade para explorar meus projet
     <img src="https://github.com/thiago0-08/thiago0-08/assets/127800106/8582fe6d-bacf-4e0e-8f3e-8bc8203ab38b" width="120" alt="PHP">
 </div>
 
-## Let's Connect 🌐
+##  🌐
 
 
 
