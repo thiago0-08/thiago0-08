@@ -1,9 +1,9 @@
-# Hello World, I'm Leeh, be very welcome
+# Hello World, I'm Thiago, be very welcome
 
 <table>
   <a href="https://github.com/thiago0-08">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leehxd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehxd&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago0-08d&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago0-08&layout=compact&langs_count=6&theme=tokyonight"/>
   <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="120" alt="React Native">
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
