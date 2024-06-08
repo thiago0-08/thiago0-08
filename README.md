@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil no GitHub! Sinta-se à vontade para explorar meus projet
 <table>
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago0-08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago0-08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1700"/>
     </td>
     <td>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago0-08&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=1800"/>
@@ -19,13 +19,13 @@ Bem-vindo ao meu perfil no GitHub! Sinta-se à vontade para explorar meus projet
 ## Tecnologias 💻
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
-    <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
-    <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
-    <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript">
-    <img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap">
-    <img src="https://img.icons8.com/color/2x/c-sharp-logo-2.png" width="120" alt="C#">
-    <img src="https://github.com/thiago0-08/thiago0-08/assets/127800106/8582fe6d-bacf-4e0e-8f3e-8bc8203ab38b" width="120" alt="PHP">
+    <img src="https://img.icons8.com/color/2x/vue-js.png" width="100" alt="Vue.js">
+    <img src="https://img.icons8.com/color/2x/html-5.png" width="100" alt="HTML5">
+    <img src="https://img.icons8.com/color/2x/css3.png" width="100" alt="CSS3">
+    <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="100" alt="JavaScript">
+    <img src="https://img.icons8.com/color/2x/bootstrap.png" width="100" alt="Bootstrap">
+    <img src="https://img.icons8.com/color/2x/c-sharp-logo-2.png" width="100" alt="C#">
+    <img src="https://github.com/thiago0-08/thiago0-08/assets/127800106/8582fe6d-bacf-4e0e-8f3e-8bc8203ab38b" width="100" alt="PHP">
 </div>
 
 ##  🌐
