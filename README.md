@@ -1,6 +1,5 @@
 # Hello world, my name is Thiago! 👋
-Bem-vindo ao meu perfil no GitHub! Sinta-se à vontade para explorar meus projetos e não hesite em entrar em contato se tiver alguma dúvida ou apenas quiser se conectar!
-
+Bem-vindo ao meu perfil no GitHub! Sinta-se à vontade para explorar meus projetos.
 ## GitHub Status 📊
 
 <table>
