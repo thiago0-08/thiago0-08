@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil no GitHub! Sinta-se à vontade para explorar meus projet
 <table>
   <tr>
     <td style="padding: 10px;">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago0-08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" style="border-radius: 8px;"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago0-08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1700" style="border-radius: 8px;"/>
     </td>
     <td style="padding: 10px;">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago0-08&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=1800" style="border-radius: 8px;"/>
