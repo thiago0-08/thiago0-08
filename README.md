@@ -15,22 +15,40 @@ Bem-vindo ao meu perfil no GitHub! Sinta-se à vontade para explorar meus projet
 
 ## Tecnologias 💻
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-    <img src="https://img.icons8.com/color/48/000000/vue-js.png" width="100" alt="Vue.js" style="margin: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" width="100" alt="HTML5" style="margin: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" width="100" alt="CSS3" style="margin: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" width="100" alt="JavaScript" style="margin: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="100" alt="Bootstrap" style="margin: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" width="100" alt="C#" style="margin: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/php.png" width="100" alt="PHP" style="margin: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/python.png" width="100" alt="Python" style="margin: 10px;">
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
 
 ## 🌐
 
-<a href="https://www.instagram.com/thiagoxp_1" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</a>
-<a href="https://www.linkedin.com/in/thiago-silverio-pereira-262a0b214/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
+<div align="left">
+  <a href="https://www.linkedin.com/in/thiago-silverio-pereira-262a0b214/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /> </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://www.instagram.com/thiagoxp_1" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /> </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+</div>
+
+
+
+
+
