@@ -1,5 +1,6 @@
 # Hello world, my name is Thiago! 👋
-Bem-vindo ao meu perfil no GitHub! Sinta-se à vontade para explorar meus projetos.
+Bem-vindo ao meu perfil no GitHub!
+sou estudante de ADS na Unimar e estou no 3 termo.
 ## GitHub Status 📊
 
 <table>
