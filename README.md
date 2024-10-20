@@ -5,12 +5,12 @@ desenvolvimento web, sempre buscando aprender e aprimorar minhas habilidades.
 
 ## 🚀 Projetos em Destaque
 
-- [Vitrine Frontend](https://github.com/thiago0-08/vitrine-front) - Um projeto de vitrine online inspirado em uma loja virtual, com funcionalidades de carrinho de compras.
-- [Sistema de Reservas de Hotel](https://github.com/thiago0-08/hotel-reservation) - Gerenciador de reservas com funcionalidades de login, perfil de usuário e relatórios.
+- [Vitrine Frontend](https://github.com/thiago0-08/vitrine-front) - Um projeto de vitrine online inspirado em uma loja virtual
+- [Sistema de Reservas de Filmes ]([https://github.com/thiago0-08/hotel-reservation](https://github.com/thiago0-08/Locadora)) - Gerenciador de reservas 
 
 ## GitHub Status 📊
 
-<div align="center">
+<div >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago0-08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thiago0-08&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago0-08&layout=compact&langs_count=6&theme=tokyonight" />
