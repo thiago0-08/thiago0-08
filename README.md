@@ -32,7 +32,11 @@ Aqui estão algumas linguagens e ferramentas que tenho experiência:
 </div>
 
 ## 🌐 Vamos nos conectar!
+## 🌐 Vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thiago-silverio-pereira-262a0b214/)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram)](https://www.instagram.com/thiagoxp_1)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord)](https://discord.com/channels/@me/1181728652090671265)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thiago-silverio-pereira-262a0b214/)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/thiagoxp_1)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord)](https://discord.com/channels/@me/1181728652090671265)
+[![GitHub](https://img.shields.io/badge/GitHub_profissional-000?style=for-the-badge&logo=github)](https://github.com/thiago1-0)
+
+
