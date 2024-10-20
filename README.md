@@ -10,7 +10,7 @@ desenvolvimento web, sempre buscando aprender e aprimorar minhas habilidades.
 
 ## GitHub Status 📊
 
-<div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago0-08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thiago0-08&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago0-08&layout=compact&langs_count=6&theme=tokyonight" />
@@ -20,7 +20,7 @@ desenvolvimento web, sempre buscando aprender e aprimorar minhas habilidades.
 
 Aqui estão algumas linguagens e ferramentas que tenho experiência:
 
-<div align="center">
+<div >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" style="margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" style="margin: 10px;"/>
