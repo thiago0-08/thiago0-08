@@ -31,8 +31,8 @@ Aqui estão algumas linguagens e ferramentas que tenho experiência:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" style="margin: 10px;"/>
 </div>
 
-## 🌐 Vamos nos conectar!
-## 🌐 Vamos nos conectar!
+
+## 🌐
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thiago-silverio-pereira-262a0b214/)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/thiagoxp_1)
