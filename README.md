@@ -7,6 +7,8 @@ desenvolvimento web, sempre buscando aprender e aprimorar minhas habilidades.
 
 - [Vitrine Frontend](https://github.com/thiago0-08/vitrine-front) - Um projeto de vitrine online inspirado em uma loja virtual
 - [Sistema de Reservas de Filmes ](https://github.com/thiago0-08/Locadora) - Gerenciador de reservas 
+- [ atendimento ao cliente ](https://dashboardwpp.netlify.app/)  - exemplo de um app de atendimento ao cliente com dashboard das vendas
+- [ controle de finanças ](https://controlefinancas2025.netlify.app/) - um controle de finanças simples em JS
 
 ## GitHub Status 📊
 
