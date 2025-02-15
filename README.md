@@ -5,6 +5,8 @@ desenvolvimento web, sempre buscando aprender e aprimorar minhas habilidades.
 
 ## 🚀 Projetos em Destaque   
 
+
+- [ codigo Portifolio](https://github.com/thiago0-08/portifolio) - meu portifolio
 - [ Video Vitrine Frontend](https://github.com/thiago0-08/vitrine-front) - Um projeto de vitrine online inspirado em uma loja virtual
 - [ Video Sistema de Reservas de Filmes ](https://github.com/thiago0-08/Locadora) - Gerenciador de reservas 
 - [ Site atendimento ao cliente ](https://dashboardwpp.netlify.app/)  - exemplo de um app de atendimento ao cliente com dashboard das vendas
